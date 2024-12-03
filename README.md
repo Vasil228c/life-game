@@ -1,1 +1,1 @@
-<p>Live<p>
+<p>This is a console game written in C++.<p>
